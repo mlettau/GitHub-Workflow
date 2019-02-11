@@ -57,3 +57,11 @@ git push
 
 (git push origin master)
 
+##### Update
+
+git add <file>
+
+git commit
+
+git push
+

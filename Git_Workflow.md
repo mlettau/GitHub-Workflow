@@ -10,7 +10,7 @@ git config: Short for “configure,” this is most useful when you’re setting
 
 git help: Forgot a command? Type this into the command line to bring up the 21 most common git commands. You can also be more specific and type “git help init” or another term to figure out how to use and configure a specific git command.
 
-git status: Check the status of your repository. See which files are inside it, which changes still need to be committed, and which branch of the repository you’re currently working on.
+git status: Check the status of your repository. See which files are inside it, which changes still need to be committed, and which branch of the repository you’re currently working on.   
 
 git add: This does not add new files to your repository. Instead, it brings new files to Git’s attention. After you add files, they’re included in Git’s “snapshots” of the repository.
 
@@ -55,4 +55,5 @@ git push --set-upstream origin master
 
 git push
 
+(git push origin master)
 
